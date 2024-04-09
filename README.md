@@ -12,4 +12,4 @@
 ## THM(try hackme)
 ## Bash/Shell Scripting
 
--https://github.com/denysdovhan/bash-handbook
+- https://github.com/denysdovhan/bash-handbook
