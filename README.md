@@ -1,5 +1,5 @@
 # CYBERSECURITY REPOSITORIES
-_Cybersecurity repository that indexes many useful repositories that will help you in your cybersecurity journey. Give it a star⭐ if you liked it._
+_Cybersecurity repository that indexes many useful repositories that will help you in your cybersecurity journey._
 
 ## bash/shell Scripting
 - https://github.com/denysdovhan/bash-handbook
