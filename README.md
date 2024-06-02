@@ -16,6 +16,8 @@ _Cybersecurity repository that indexes many useful repositories that will help y
 - https://github.com/daffainfo/AllAboutBugBounty
 - https://github.com/EdOverflow/bugbounty-cheatsheet?tab=readme-ov-file
 - https://github.com/securitycipher/daily-bugbounty-writeups
+- https://github.com/g0ldencybersec/bugbountybloglist
+- https://sidxparab.gitbook.io/subdomain-enumeration-guide
 
 ## dorks
 - https://gist.github.com/65b94057042497c3d0376f72460b95c4
