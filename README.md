@@ -28,6 +28,11 @@ _Cybersecurity repository that indexes many useful repositories that will help y
 - https://gist.github.com/65b94057042497c3d0376f72460b95c4
 - https://github.com/sushiwushi/bug-bounty-dorks
 
+## mindmaps
+- https://github.com/pbscybsec/Mind-Maps
+- https://gowthams.gitbook.io/bughunter-handbook/mindmaps
+- https://websecmindmap.netlify.app/
+  
 ## python
 - https://github.com/carloocchiena/blackhat_python_book_code
   
